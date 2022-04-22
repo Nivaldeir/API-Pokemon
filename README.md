@@ -1,6 +1,6 @@
 # Pokedex
 
-##Excercitando o consumo de APIs com a API de Pokeapi com o framwork vue
+## Excercitando o consumo de APIs com a API de Pokeapi com o framwork vue
 
 
 ## Project setup
