@@ -1,4 +1,7 @@
-# pokedex
+# Pokedex
+
+##Excercitando o consumo de APIs com a API de Pokeapi com o framwork vue
+
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
